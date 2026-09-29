@@ -113,9 +113,9 @@ Open `http://localhost:5173`.
 
 ### ERPNext Customer List
 
-![ERPNext Customer List](frontend/screenshots/frappe_customer.png)
+![ERPNext Customer List](frontend/screenshots/frapee_customerlist.png)
 
 ### ERPNext User / API Setup
 
-![ERPNext User](frontend/screenshots/frappe_user.png)
+![ERPNext User](frontend/screenshots/frapee_user.png)
 
