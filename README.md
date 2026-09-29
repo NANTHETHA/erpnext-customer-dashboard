@@ -102,6 +102,20 @@ Open `http://localhost:5173`.
 - Search is done on the frontend, on the list already loaded.
 - The backend and frontend run locally on ports 5000 and 5173.
 
-## Screenshot
+## Screenshots
 
-Add a screenshot of the dashboard here, for example ![Screenshot](image.png)
+### Customer Dashboard
+
+![Customer Dashboard](frontend/screenshots/dashboard.png)
+
+### Detailed view 
+![Customer Dashboard](frontend/screenshots/detailed_view.png)
+
+### ERPNext Customer List
+
+![ERPNext Customer List](frontend/screenshots/frappe_customer.png)
+
+### ERPNext User / API Setup
+
+![ERPNext User](frontend/screenshots/frappe_user.png)
+
